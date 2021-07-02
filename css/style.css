@@ -115,8 +115,11 @@ ul.top_menu {
   clear: both;
 }
 
-.selected{
+.side_menu .selected{
   background-color: #FCECEC;
+}
+
+.side_menu .selected a{
   color: #4D4D4D;
 }
 
