@@ -28,7 +28,7 @@ A revoir ❌
    
   ### church_manager
   - Creer des stations pour son eglise ✅
-  - Assigner un administrateur a une station de son eglise au cours de la creation ✅
+  -( Assigner un administrateur a une station de son eglise au cours de la creation ✅  (le faire de tel sorte que plusieurs administrateurs suivant des rôles différents puissent avoir accès à la station)
   - Voir la liste des stations de son eglise ✅
   - Modifier une station de son eglise ✅
   - Supprimer une station de son eglise ✅
